@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend mentor](https://www.frontendmentor.io/solutions/order-summary-component-in-html-css-kzGcRZM66y)
+- Live Site URL: [Github pages](https://sylva2002.github.io/order-summary-component-main/)
 
 ## My process
 
